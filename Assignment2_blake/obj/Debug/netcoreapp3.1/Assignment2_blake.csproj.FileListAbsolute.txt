@@ -1,0 +1,11 @@
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\bin\Debug\netcoreapp3.1\Assignment2_blake.exe
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\bin\Debug\netcoreapp3.1\Assignment2_blake.deps.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\bin\Debug\netcoreapp3.1\Assignment2_blake.runtimeconfig.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\bin\Debug\netcoreapp3.1\Assignment2_blake.runtimeconfig.dev.json
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\bin\Debug\netcoreapp3.1\Assignment2_blake.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\bin\Debug\netcoreapp3.1\Assignment2_blake.pdb
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\obj\Debug\netcoreapp3.1\Assignment2_blake.csprojAssemblyReference.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\obj\Debug\netcoreapp3.1\Assignment2_blake.AssemblyInfoInputs.cache
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\obj\Debug\netcoreapp3.1\Assignment2_blake.AssemblyInfo.cs
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\obj\Debug\netcoreapp3.1\Assignment2_blake.dll
+C:\Users\Lock\OneDrive\Desktop\Assignments\Assignment2_blake\Assignment2_blake\obj\Debug\netcoreapp3.1\Assignment2_blake.pdb
